@@ -1,4 +1,4 @@
-use radpie::sim::Sim;
+use cyclotron::sim::Sim;
 
 fn main() {
     let mut sim = Sim::new();
